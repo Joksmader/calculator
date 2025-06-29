@@ -1,1 +1,1 @@
-# calculator
+Hesap makinesi
